@@ -1,4 +1,3 @@
-from operator import pos
 from tic_tac_toe import empty, token, checkWinner
 
 def movementAi(board, player):
